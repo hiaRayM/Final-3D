@@ -1,7 +1,10 @@
 # GDIM 31 Final: 3D
 ## Devlogs
 ### Milestone 1
-TODO.
+
+The google drawing link: https://docs.google.com/drawings/d/1-2IHIaQdiXLRiDRT_hTV2GmxWNk5YMZFsmzGb04frVw/edit?usp=sharing
+
+My part: UI Manager
 
 ### Milestone 2
 TODO.
